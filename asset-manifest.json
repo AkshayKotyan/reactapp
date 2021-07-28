@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.e6544f9e.chunk.css",
+    "main.js": "/reactapp/static/js/main.abbd00c8.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.abbd00c8.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.3d41cdc1.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.3d41cdc1.js.map",
+    "static/css/2.4be38407.chunk.css": "/reactapp/static/css/2.4be38407.chunk.css",
+    "static/js/2.23aabd6f.chunk.js": "/reactapp/static/js/2.23aabd6f.chunk.js",
+    "static/js/2.23aabd6f.chunk.js.map": "/reactapp/static/js/2.23aabd6f.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reactapp/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e6544f9e.chunk.css.map": "/reactapp/static/css/main.e6544f9e.chunk.css.map",
+    "static/js/2.23aabd6f.chunk.js.LICENSE.txt": "/reactapp/static/js/2.23aabd6f.chunk.js.LICENSE.txt",
+    "static/media/arsenal.d573d9fc.png": "/reactapp/static/media/arsenal.d573d9fc.png",
+    "static/media/barca.d1b32f52.jpg": "/reactapp/static/media/barca.d1b32f52.jpg",
+    "static/media/chelseafc.e565ba2a.jpg": "/reactapp/static/media/chelseafc.e565ba2a.jpg",
+    "static/media/edu.eead3517.jpg": "/reactapp/static/media/edu.eead3517.jpg",
+    "static/media/mc.b2e07703.jpg": "/reactapp/static/media/mc.b2e07703.jpg",
+    "static/media/menu.5c85b0f7.jpg": "/reactapp/static/media/menu.5c85b0f7.jpg",
+    "static/media/mu.78d617fc.jpg": "/reactapp/static/media/mu.78d617fc.jpg",
+    "static/media/rm.1aeb2f1f.jpg": "/reactapp/static/media/rm.1aeb2f1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d41cdc1.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.23aabd6f.chunk.js",
+    "static/css/main.e6544f9e.chunk.css",
+    "static/js/main.abbd00c8.chunk.js"
+  ]
+}
